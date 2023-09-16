@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+
+.bg_img{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+    width: 100%;
+    height: 100%;
+    -webkit-filter: blur(15px); 
+    filter: blur(100%);
+}
+
+#logo-1{
+    margin-top : 100px;
+    margin-left : 100px;
+    width: 700px;
+    height: auto;
+}
+
